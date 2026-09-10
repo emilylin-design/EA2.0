@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="fill-xs" viewBox="0 0 12 12"><path fill="currentColor" d="M9.763 1a1.251 1.251 0 0 1 0 2.5h-1.01l-2.672 5h.68a1.25 1.25 0 0 1 0 2.5H2.235a1.25 1.25 0 0 1 0-2.5h1.013l2.671-5h-.661a1.25 1.25 0 0 1 0-2.5h4.506Z"/></symbol>
+  <symbol id="fill-sm" viewBox="0 0 16 16"><path fill="currentColor" d="M11.765 2a1.25 1.25 0 0 1 0 2.5H10.33l-2.947 7h1.372a1.25 1.25 0 0 1 0 2.5H3.267a1.25 1.25 0 1 1 0-2.5H4.67l2.947-7H6.226a1.25 1.25 0 0 1 0-2.5h5.539Z"/></symbol>
+  <symbol id="fill-md" viewBox="0 0 20 20"><path fill="currentColor" d="M15.76 2a1.25 1.25 0 0 1 0 2.5h-1.864l-4.583 11h1.466a1.25 1.25 0 0 1 0 2.5H4.243a1.25 1.25 0 1 1 0-2.5h2.361l4.583-11H9.26a1.25 1.25 0 0 1 0-2.5h6.499Z"/></symbol>
+  <symbol id="fill-lg" viewBox="0 0 24 24"><path fill="currentColor" d="M18.293 3a1.75 1.75 0 0 1 0 3.5h-2.075l-4.638 11h1.68a1.75 1.75 0 1 1 0 3.5H5.765a1.75 1.75 0 0 1 0-3.5h2.017l4.638-11h-1.676a1.75 1.75 0 0 1 0-3.5h7.549Z"/></symbol>
+  <symbol id="fill-xl" viewBox="0 0 32 32"><path fill="currentColor" d="M24.266 4a1.75 1.75 0 0 1 0 3.5h-3.55l-6.672 17h3.223a1.75 1.75 0 0 1 0 3.5H6.744a1.75 1.75 0 1 1 0-3.5h3.54l6.672-17H13.73a1.75 1.75 0 1 1 0-3.5h10.536Z"/></symbol>
+  <symbol id="outline-xs" viewBox="0 0 12 12"><path fill="currentColor" d="M10 1a1 1 0 1 1 0 2H8.618l-3 6H7a1 1 0 0 1 0 2H2a1 1 0 1 1 0-2h1.382l3-6H5a1 1 0 0 1 0-2h5Z"/></symbol>
+  <symbol id="outline-sm" viewBox="0 0 16 16"><path fill="currentColor" d="M12 2a1 1 0 1 1 0 2h-1.823l-3.2 8H9a1 1 0 1 1 0 2H3a1 1 0 1 1 0-2h1.823l3.2-8H6a1 1 0 0 1 0-2h6Z"/></symbol>
+  <symbol id="outline-md" viewBox="0 0 20 20"><path fill="currentColor" d="M16 2a1 1 0 1 1 0 2h-2.318L8.967 16H11a1 1 0 1 1 0 2H4a1 1 0 1 1 0-2h2.818l4.715-12H9a1 1 0 0 1 0-2h7Z"/></symbol>
+  <symbol id="outline-lg" viewBox="0 0 24 24"><path fill="currentColor" d="M18.5 3a1.5 1.5 0 0 1 0 3h-2.484l-4.801 12H13.5a1.5 1.5 0 0 1 0 3h-8a1.5 1.5 0 0 1 0-3h2.484l4.801-12H10.5a1.5 1.5 0 1 1 0-3h8Z"/></symbol>
+  <symbol id="outline-xl" viewBox="0 0 32 32"><path fill="currentColor" d="M24.5 4a1.5 1.5 0 0 1 0 3h-3.967l-6.856 18H17.5a1.5 1.5 0 0 1 0 3h-11a1.5 1.5 0 0 1 0-3h3.967l6.856-18H13.5a1.5 1.5 0 0 1 0-3h11Z"/></symbol>
+</svg>

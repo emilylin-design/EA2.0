@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="fill-xs" viewBox="0 0 12 12"><path fill="currentColor" d="M9.75 1c.69 0 1.25.56 1.25 1.25v.5a1.25 1.25 0 0 1-2.248.75H7.25v5.104A1.25 1.25 0 0 1 6.75 11h-1.5a1.25 1.25 0 0 1-.5-2.396V3.5H3.248A1.25 1.25 0 0 1 1 2.75v-.5C1 1.56 1.56 1 2.25 1h7.5Z"/></symbol>
+  <symbol id="fill-sm" viewBox="0 0 16 16"><path fill="currentColor" d="M12.75 2c.69 0 1.25.56 1.25 1.25v.5a1.25 1.25 0 0 1-2.248.75H9.25v7a1.25 1.25 0 1 1 0 2.5h-2.5a1.25 1.25 0 1 1 0-2.5v-7H4.248A1.25 1.25 0 0 1 2 3.75v-.5C2 2.56 2.56 2 3.25 2h9.5Z"/></symbol>
+  <symbol id="fill-md" viewBox="0 0 20 20"><path fill="currentColor" d="M15.75 2c.69 0 1.25.56 1.25 1.25v1.263a1.25 1.25 0 1 1-2.5 0V4.5h-3.25v11h.33a1.25 1.25 0 0 1 0 2.5H8.42a1.25 1.25 0 0 1 0-2.5h.33v-11H5.5v.013a1.25 1.25 0 0 1-2.5 0V3.25C3 2.56 3.56 2 4.25 2h11.5Z"/></symbol>
+  <symbol id="fill-lg" viewBox="0 0 24 24"><path fill="currentColor" d="M19.25 3c.966 0 1.75.784 1.75 1.75V6.5a1.75 1.75 0 1 1-3.5 0h-3.25v11h.25a1.75 1.75 0 1 1 0 3.5h-4a1.75 1.75 0 1 1 0-3.5h.25v-11H7.5a1.75 1.75 0 1 1-3.5 0V4.75C4 3.784 4.784 3 5.75 3h13.5Z"/></symbol>
+  <symbol id="fill-xl" viewBox="0 0 32 32"><path fill="currentColor" d="M25.25 4c.966 0 1.75.784 1.75 1.75V7.5a1.75 1.75 0 1 1-3.5 0h-5.25v17h.25a1.75 1.75 0 1 1 0 3.5h-4a1.75 1.75 0 1 1 0-3.5h.25v-17H9.5a1.75 1.75 0 1 1-3.5 0V5.75C6 4.784 6.784 4 7.75 4h17.5Z"/></symbol>
+  <symbol id="outline-xs" viewBox="0 0 12 12"><path fill="currentColor" d="M10 1a1 1 0 0 1 1 1v1a1 1 0 0 1-1.995.103L9 3H7v6a1 1 0 1 1 0 2H5a1 1 0 0 1-.103-1.995L5 9V3H3a1 1 0 0 1-2 0V2a1 1 0 0 1 1-1h8Z"/></symbol>
+  <symbol id="outline-sm" viewBox="0 0 16 16"><path fill="currentColor" d="M13 2a1 1 0 0 1 1 1v1a1 1 0 1 1-2 0H9v8a1 1 0 1 1 0 2H7a1 1 0 0 1-.103-1.995L7 12V4H4a1 1 0 0 1-2 0V3a1 1 0 0 1 1-1h10Z"/></symbol>
+  <symbol id="outline-md" viewBox="0 0 20 20"><path fill="currentColor" d="M16 2a1 1 0 0 1 1 1v1.263a1 1 0 1 1-2 0V4h-4v12h.58a1 1 0 0 1 0 2H8.42a1 1 0 0 1 0-2H9V4H5v.263l-.005.102a1 1 0 0 1-1.99 0L3 4.263V3l.005-.103A1 1 0 0 1 4 2h12Z"/></symbol>
+  <symbol id="outline-lg" viewBox="0 0 24 24"><path fill="currentColor" d="M19.5 3A1.5 1.5 0 0 1 21 4.5v2a1.5 1.5 0 0 1-3 0V6h-4v12h.5a1.5 1.5 0 0 1 0 3h-4a1.5 1.5 0 0 1 0-3h.5V6H7v.5a1.5 1.5 0 1 1-3 0v-2A1.5 1.5 0 0 1 5.5 3h14Z"/></symbol>
+  <symbol id="outline-xl" viewBox="0 0 32 32"><path fill="currentColor" d="M25.5 4A1.5 1.5 0 0 1 27 5.5v2a1.5 1.5 0 0 1-3 0V7h-6v18h.5a1.5 1.5 0 0 1 0 3h-4a1.5 1.5 0 0 1 0-3h.5V7H9v.5a1.5 1.5 0 1 1-3 0v-2A1.5 1.5 0 0 1 7.5 4h18Z"/></symbol>
+</svg>
